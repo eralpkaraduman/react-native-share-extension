@@ -1,3 +1,11 @@
+# Fork of abandoned React Native Share Extension repository
+
+Forked then modified based on this suggestion: https://github.com/alinz/react-native-share-extension/issues/182#issuecomment-534993812
+
+>  If you do any other changes in your share extension repo you need to reinstall the share extension through npm install, pod deingegrate and pod install, so it fetches the changes from the repo. Just something you need to keep in mind.
+
+## Original readme below;
+
 # React Native Share Extension
 
 This is a helper module which brings react native as an engine to drive share extension for your app.
